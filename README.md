@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![Ekran Resmi](https://github.com/user-attachments/assets/a636dad4-ab5c-4b17-8b5f-b37245bdd1d1)
