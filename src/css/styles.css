@@ -1,0 +1,60 @@
+/* Genel sıfırlama */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #333;
+    padding: 10px 20px;
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  
+  .navbar-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-left .home-icon img {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+  }
+  
+  .navbar-center {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .navbar-center .brand-name {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .navbar-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-right .search-box {
+    padding: 5px 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    width: 200px;
+  }
+  
+  .navbar-right .search-box:focus {
+    border-color: #555;
+    background-color: #fff;
+  }
+  
+
+
+ 
+  
